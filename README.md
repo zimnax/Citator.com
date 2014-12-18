@@ -1,2 +1,2 @@
-CITATOR.COM
+citator.com
 ============
